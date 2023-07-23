@@ -1,0 +1,15 @@
+{
+  contact ,
+  templates [
+    {
+      name MOUSTIQUE,
+      sources [
+        https://i.imgur.com/O80qfcB.png
+      ],
+      x 500,
+      y 330
+    }
+  ],
+  whitelist [],
+  blacklist []
+}
